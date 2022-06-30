@@ -1,0 +1,43 @@
+body {
+  font-family: "Roboto";
+}
+header {
+  width: 100%;
+  justify-content: center;
+  display: flex;
+  width: 1440px;
+  height: 69px;
+  background: #ec362d;
+}
+header p {
+  margin-top: 13px;
+  font-weight: 700;
+  font-size: 37px;
+  line-height: 43px;
+  display: flex;
+  width: 176px;
+  height: 43px;
+  align-items: center;
+  color: #ffff;
+}
+.quizzHead {
+  position: relative;
+}
+img {
+  width: 1440px;
+  height: 227px;
+}
+.tituloQuizz {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1051px;
+  height: 54px;
+  position: absolute;
+  font-weight: 400;
+  font-size: 39px;
+  line-height: 46px;
+  color: #ffff;
+  top: 87px;
+  left: 209px;
+}
